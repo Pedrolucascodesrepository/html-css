@@ -1,0 +1,28 @@
+h1{
+    background-color: antiquewhite;
+    height: 300px;
+    width: 300px;
+    border-width: 10px;
+    border-style: solid;
+    border-color:black ;
+
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+
+    outline-width: 5px;
+    outline-style: dashed;
+    outline-color: red;
+}
+
+a{
+    border-width: 5px;
+    border-style:groove;
+    border-color: red;
+}

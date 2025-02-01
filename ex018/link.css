@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    color: goldenrod;
+    text-decoration: none;
+}
+
+a:visited{
+    color: rgb(132, 95, 3);
+}
+
+a:hover{
+    color: aqua;
+    text-decoration: underline;
+}
+
+a:active{
+    color: red;
+}
+
+a::after{
+    content: '[link]';
+    color: rgb(49, 152, 118);
+    font-weight: normal;
+}

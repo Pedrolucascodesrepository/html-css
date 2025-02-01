@@ -1,0 +1,30 @@
+@charset "UTF-*";
+
+body{
+    background-color: cadetblue;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: yellowgreen;
+}
+
+h1#principal{
+    color:chartreuse;
+    text-align: center;
+    background-color: rgb(74, 121, 106);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+
+h2{
+    color: rgb(1, 67, 69);
+}
+.basico{
+    color: brown;
+}
+
+.destaque{
+    background-color:yellow
+}
